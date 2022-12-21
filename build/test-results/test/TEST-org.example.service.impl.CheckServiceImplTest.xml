@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.service.impl.CheckServiceImplTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-12-21T16:11:10" hostname="LAPTOP-O9GHNJ64" time="0.757">
+  <properties/>
+  <testcase name="getCheck()" classname="org.example.service.impl.CheckServiceImplTest" time="0.757"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
