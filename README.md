@@ -1,6 +1,6 @@
-Используемый стек: Spring boot, jdbcTemplate, spring mvc;
+The stack used: Spring boot, jdbcTemplate, spring mvc;
 
-Для запуска надо создать в PostgreSQL бд "clevertec"
+need to create in PostgreSQL бд "clevertec"
 
 Get: http://localhost:8080/products
 
