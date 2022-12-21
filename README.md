@@ -1,6 +1,6 @@
 The stack used: Spring boot, jdbcTemplate, spring mvc;
 
-need to create in PostgreSQL αδ "clevertec"
+need to create in PostgreSQL db "clevertec"
 
 Get: http://localhost:8080/products
 
